@@ -1,3 +1,3 @@
 # Game-MineSweeper
-Simple MineSweeper Game
+In MineSweeper you want to find out where mines are.
 # Gameplay
