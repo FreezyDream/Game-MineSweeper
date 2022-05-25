@@ -1,3 +1,3 @@
 # Game-MineSweeper
-In MineSweeper you want to find out where mines are.
+In MineSweeper is a game where you don't want to click on any mine.
 # Gameplay
